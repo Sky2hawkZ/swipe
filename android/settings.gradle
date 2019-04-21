@@ -1,0 +1,3 @@
+rootProject.name = 'swipe'
+
+include ':app'
